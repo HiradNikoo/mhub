@@ -1,2 +1,4 @@
-api_keys:
-  youtube: ""
+google:
+  api_key: "AIzaSyAG2pzHTzZvZXD99fOmF_bdOh6pXkeVGUA"
+  cx:
+    youtube: "000787728251656144434%3Ax66ss5ntbko"

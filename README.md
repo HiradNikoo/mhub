@@ -10,4 +10,10 @@ sudo apt-get install python3-pip python-dev build-essential
 # Install the libraries
 pip install Flask
 
+# Go to api directory
+cd mhub.api
+
+# install dependencies
+sudo pip download -d vendor -r requirements.txt
+
 ```
