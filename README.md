@@ -13,7 +13,16 @@ pip install Flask
 # Go to api directory
 cd mhub.api
 
-# install dependencies
+# Install dependencies
 sudo pip download -d vendor -r requirements.txt
+
+# Run Flask server
+FLASK_APP=index.py flask run
+
+# Go to app folder
+cd mhub.app
+
+# Install app
+npm install & start
 
 ```
