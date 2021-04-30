@@ -54,7 +54,7 @@ pysqlite==2.7.0
 pyxdg==0.25
 PyYAML==3.12
 requests==2.18.4
-rsa==4.0
+rsa==4.7
 SecretStorage==2.3.1
 singledispatch==3.4.0.3
 six==1.11.0
